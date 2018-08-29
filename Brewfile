@@ -31,13 +31,30 @@ brew "wget"
 brew "zplug"
 brew "zsh", args: ["without-etcdir"]
 brew "zsh-completions"
+cask "adobe-creative-cloud"
+cask "atom"
 cask "cyberduck"
+cask "discord"
 cask "docker"
+cask "genymotion"
+cask "hyperswitch"
+#cask "intellij-idea"
 cask "iterm2"
 cask "google-chrome"
+cask "microsoft-office"
+cask "path-finder"
+cask "sequel-pro"
+cask "sip"
+cask "skype"
 cask "slack"
 cask "steam"
 cask "the-unarchiver"
 cask "virtualbox"
 cask "vagrant"
 cask "visual-studio-code"
+mas "Bear", id: 1091189122
+mas "Line", id: 539883307
+mas "Medis", id: 1063631769
+mas "Spark", id: 1176895641
+mas "Things 3", id: 904280696
+#mas "Xcode", id: 497799835
