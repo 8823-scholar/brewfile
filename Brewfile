@@ -56,6 +56,7 @@ cask "visual-studio-code"
 mas "Bear", id: 1091189122
 mas "Line", id: 539883307
 mas "Medis", id: 1063631769
+mas "Skitch", id: 425955336
 mas "Spark", id: 1176895641
 mas "Things 3", id: 904280696
 #mas "Xcode", id: 497799835
