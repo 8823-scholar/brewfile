@@ -69,4 +69,4 @@ mas "Skitch", id: 425955336
 mas "Spark", id: 1176895641
 mas "Things 3", id: 904280696
 mas "Monosnap", id: 540348655
-#mas "Xcode", id: 497799835
+mas "Xcode", id: 497799835
