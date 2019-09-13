@@ -7,11 +7,13 @@ tap "heroku/brew"
 tap "sanemat/font"
 cask "java"
 brew "ag"
+brew "anyenv"
 brew "awscli"
 brew "circleci"
 brew "coreutils"
 brew "ctags"
 brew "direnv"
+brew "docker"
 brew "docker-completion"
 brew "docker-compose-completion"
 brew "docker-machine-completion"
@@ -36,7 +38,7 @@ brew "tig"
 brew "tmux"
 brew "wget"
 brew "zplug"
-brew "zsh", args: ["without-etcdir"]
+brew "zsh"
 brew "zsh-completions"
 cask "adobe-creative-cloud"
 cask "atom"
@@ -69,4 +71,4 @@ mas "Skitch", id: 425955336
 mas "Spark", id: 1176895641
 mas "Things 3", id: 904280696
 mas "Monosnap", id: 540348655
-#mas "Xcode", id: 497799835
+mas "Xcode", id: 497799835
