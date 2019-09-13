@@ -40,6 +40,7 @@ brew "zsh", args: ["without-etcdir"]
 brew "zsh-completions"
 cask "adobe-creative-cloud"
 cask "atom"
+cask "chatwork"
 cask "cyberduck"
 cask "discord"
 cask "docker"
