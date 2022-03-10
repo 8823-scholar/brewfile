@@ -26,6 +26,7 @@ brew "graphviz"
 brew "heroku"
 brew "hub"
 brew "imagemagick"
+brew "lima"
 brew "mas"
 brew "mysql@5.7"
 brew "nvim"
@@ -57,7 +58,6 @@ cask "ngrok"
 cask "path-finder"
 cask "sequel-pro"
 cask "sip"
-cask "skype"
 cask "slack"
 cask "steam"
 cask "the-unarchiver"
@@ -73,3 +73,4 @@ mas "Things 3", id: 904280696
 mas "Monosnap", id: 540348655
 mas "Xcode", id: 497799835
 mas "1Password", id: 1333542190
+mas "Sequel Ace", id: 1518036000
