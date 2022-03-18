@@ -34,7 +34,6 @@ brew "peco"
 brew "plantuml"
 brew "reattach-to-user-namespace"
 brew "ricty", args: ["with-powerline"]
-brew "tfenv"
 brew "tig"
 brew "tmux"
 brew "wget"
