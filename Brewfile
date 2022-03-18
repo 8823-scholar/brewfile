@@ -64,6 +64,7 @@ cask "the-unarchiver"
 cask "virtualbox"
 cask "vagrant"
 cask "visual-studio-code"
+mas "Amphetamine", id: 937984704
 mas "Bear", id: 1091189122
 mas "Line", id: 539883307
 mas "Medis", id: 1063631769
