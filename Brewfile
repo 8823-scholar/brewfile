@@ -1,7 +1,6 @@
 tap "homebrew/bundle"
 tap "homebrew/services"
 tap "heroku/brew"
-cask "adoptopenjdk"
 brew "ag"
 brew "anyenv"
 brew "awscli"
@@ -49,13 +48,8 @@ cask "the-unarchiver"
 cask "virtualbox"
 cask "visual-studio-code"
 mas "Amphetamine", id: 937984704
-mas "Bear", id: 1091189122
-mas "Line", id: 539883307
-mas "Medis", id: 1063631769
-mas "Skitch", id: 425955336
 mas "Spark", id: 1176895641
 mas "Things 3", id: 904280696
-mas "Twitter", id:  1482454543
 mas "Monosnap", id: 540348655
 mas "Xcode", id: 497799835
 mas "1Password", id: 1333542190
