@@ -47,6 +47,8 @@ cask "steam"
 cask "the-unarchiver"
 cask "virtualbox"
 cask "visual-studio-code"
+cask "font-hackgen"
+cask "font-hackgen-nerd"
 mas "Amphetamine", id: 937984704
 mas "Spark", id: 1176895641
 mas "Things 3", id: 904280696
